@@ -3004,12 +3004,12 @@
   <string>
     <id>1061095</id>
     <name>STR_DIC_W_IDCatacombs_SZ_D2</name>
-    <body>Blue Flame Incinerator;The northeastern part of the Garden of the Dead where Flarestorm is imprisoned.</body>
+    <body>ﻡﺭﻮﺘﺴﻳﺭﻼﻓ ﻦﺠﺳ ﻢﺗ ﺚﻴﺣ ﻰﺗﻮﻤﻟﺍ ﺔﻘﻳﺪﺣ ﻦﻣ ﻲﻗﺮﺸﻟﺍ ﻲﻟﺎﻤﺸﻟﺍ ﺀﺰﺠﻟﺍ ؛ ﺀﺎﻗﺭﺰﻟﺍ ﺔﻠﻌﺸﻟﺍ ﺪﻗﻮﻣ.</body>
   </string>
   <string>
     <id>1061096</id>
     <name>STR_DIC_W_IDCatacombs_SZ_D3</name>
-    <body>Undying Obelisk;A pavilion in the centre of the Garden of the Dead where the Nightshade Clan lurks.</body>
+    <body>ﺪﻳﺎﺸﺘﻳﺎﻧ ﺓﺮﻴﺸﻋ ﻊﺑﺮﺘﺗ ﺚﻴﺣ ﻰﺗﻮﻤﻟﺍ ﺔﻘﻳﺪﺤﻟ ﻂﺳﻭﻻﺍ ﺡﺎﻨﺠﻟﺍ ؛ ﺔﻳﺪﺑﻻﺍ ﺓﺬﻳﻮﻌﺘﻟﺍ.</body>
   </string>
   <string>
     <id>1061097</id>
@@ -3019,27 +3019,27 @@
   <string>
     <id>1061098</id>
     <name>STR_DIC_W_IDCatacombs_SZ_E1</name>
-    <body>Courtyard of Eternity;The entrance to the Temple of Eternity.</body>
+    <body>ﺩﻮﻠﺨﻟﺍ ﺪﺒﻌﻣ ﻞﺧﺪﻣ ؛ ﺩﻮﻠﺨﻟﺍ ﺀﺎﻨﻓ.</body>
   </string>
   <string>
     <id>1061099</id>
     <name>STR_DIC_W_IDCatacombs_SZ_E2</name>
-    <body>Meditation Chamber;Located on the second floor of the Temple of Eternity.</body>
+    <body>ﺩﻮﻠﺨﻟﺍ ﺪﺒﻌﻣ ﻦﻣ ﻲﻧﺎﺜﻟﺍ ﻖﺑﺎﻄﻟﺍ ﻲﻓ ﻊﻘﺗ ؛ﻞﻣﺄﺘﻟﺍ ﺔﻓﺮﻏ.</body>
   </string>
   <string>
     <id>1061100</id>
     <name>STR_DIC_W_IDCatacombs_SZ_E3</name>
-    <body>Contemplation Chamber;Located on the second floor of the Temple of Eternity.</body>
+    <body>ﺩﻮﻠﺨﻟﺍ ﺪﺒﻌﻣ ﻦﻣ ﻲﻧﺎﺜﻟﺍ ﻖﺑﺎﻄﻟﺍ ﻲﻓ ﻊﻘﺗ ؛ﻞﻣﺄﺘﻟﺍ ﺓﺮﺠﺣ.</body>
   </string>
   <string>
     <id>1061101</id>
     <name>STR_DIC_W_IDCatacombs_SZ_E4</name>
-    <body>Supplication Chamber;Located on the second floor of the Temple of Eternity.</body>
+    <body>ﺩﻮﻠﺨﻟﺍ ﺪﺒﻌﻣ ﻦﻣ ﻲﻧﺎﺜﻟﺍ ﻖﺑﺎﻄﻟﺍ ﻲﻓ ﻊﻘﺗ ؛ﺀﺎﻋﺪﻟﺍ ﺔﻓﺮﻏ.</body>
   </string>
   <string>
     <id>1061102</id>
     <name>STR_DIC_W_IDCatacombs_SZ_E5</name>
-    <body>Petition Chamber;Located on the second floor of the Temple of Eternity.</body>
+    <body>ﺩﻮﻠﺨﻟﺍ ﺪﺒﻌﻣ ﻦﻣ ﻲﻧﺎﺜﻟﺍ ﻖﺑﺎﻄﻟﺍ ﻲﻓ ﻊﻘﺗ ؛ﻞﺳﻮﺘﻟﺍ ﺔﻓﺮﻏ</body>
   </string>
   <string>
     <id>1061103</id>
@@ -3049,112 +3049,112 @@
   <string>
     <id>1061104</id>
     <name>STR_DIC_W_IDCatacombs_SZ_E7</name>
-    <body>Prison of Ice;A room where Stormwing is imprisoned.</body>
+    <body>.ﺔﻔﺻﺎﻌﻟﺍ ﺡﺎﻨﺟ ﺎﻬﻴﻓ ﻦﺠﺳ ﺔﻓﺮﻏ؛ﺞﻠﺜﻟﺍ ﻦﺠﺳ</body>
   </string>
   <string>
     <id>1061105</id>
     <name>STR_DIC_W_LF4_SZ_2011_A</name>
-    <body>Temple of Scales;A fortress built by the Balaur in the Angrief Ruins of Inggison.</body>
+    <body>.ﺔﻔﺻﺎﻌﻟﺍ ﺡﺎﻨﺟ ﺎﻬﻴﻓ ﻦﺠﺳ ﺔﻓﺮﻏ؛ﺞﻠﺜﻟﺍ ﻦﺠﺳ.</body>
   </string>
   <string>
     <id>1061106</id>
     <name>STR_DIC_W_LF4_SZ_2021_A</name>
-    <body>Altar of Avarice;A fortress built by the Balaur located to the east of the Angrief Wastes.</body>
+    <body>ﻒﻳﺮﺠﻧﺃ ﺕﺎﻳﺎﻔﻧ ﻲﻗﺮﺷ ﻊﻘﺗ ﺭﻮﻟﺎﺑ ﺎﻫﺎﻨﺑ ﺔﻌﻠﻗ ؛ﺔﻨﻴﻧﺄﻤﻄﻟﺍ ﺔﻋﺎﻗ.</body>
   </string>
   <string>
     <id>1061107</id>
     <name>STR_DIC_W_DF4_SZ_3011_A</name>
-    <body>Vorgaltem Citadel;A fortress built by the Balaur located in the Vorgaltem Battlefield in Gelkmaros.</body>
+    <body>ﺱﺭﻮﻤﻜﻠﻴﻛ ﻲﻓ ﻡﻼﺗﺎﻛﺭﻮﻓ ﺔﻛﺮﻌﻣ ﺔﺣﺎﺳ ﻲﻓ ﻊﻘﺗ ﺭﻮﻟﺎﺑ ﺎﻫﺎﻨﺑ ﺔﻌﻠﻗ ؛ ﻡﻼﺗﺎﻛﺭﻮﻓ ﺔﻌﻠﻗ.</body>
   </string>
   <string>
     <id>1061108</id>
     <name>STR_DIC_W_DF4_SZ_3021_A</name>
-    <body>Crimson Temple;A fortress built by the Balaur located in the Vorgaltem Battlefield in Gelkmaros.</body>
+    <body>ﺱﺭﻮﻤﻜﻠﻴﻛ ﻞﺧﺍﺩ ﻡﻼﺗﺎﻛﺭﻮﻓ ﺔﻛﺮﻌﻣ ﺔﺣﺎﺳ ﻲﻓ ﺭﻮﻟﺎﺑ ﻩﺎﻨﺑ ﻦﺼﺣ؛ﻱﺰﻣﺮﻘﻟﺍ ﺪﺒﻌﻤﻟﺍ.</body>
   </string>
   <string>
     <id>1061109</id>
     <name>STR_DIC_W_ZONE_NAME_Underpass</name>
-    <body>Silentera Canyon;An underground corridor connecting Gelkmaros and Inggison.</body>
+    <body>.ﻦﺴﻳﺎﺠﻧﺍ ﻭ ﺱﺭﻮﻤﻜﻴﻠﻛ ﻦﻴﺑ ﻂﺑﺮﻳ ﺽﺭﻷﺍ ﺖﺤﺗ ﺮﻤﻣ؛ﺖﻤﺼﻟﺍ ﻱﺩﺍﻭ</body>
   </string>
   <string>
     <id>1061110</id>
     <name>STR_DIC_W_Underpass_SZ_S1</name>
-    <body>Silentera Westgate;The entrance area that you must pass through to enter the Silentera Canyon.</body>
+    <body>ﺖﻤﺼﻟﺍ ﻱﺩﺍﻭ ﻝﻮﺧﺪﻟ ﺎﻬﻟﻼﺧ ﻦﻣ ﺮﻤﺗ ﻥﺃ ﺐﺠﻳ ﻲﺘﻟﺍ ﻞﺧﺪﻤﻟﺍ ﺔﻘﻄﻨﻣ؛ﺔﻴﺑﺮﻐﻟﺍ ﺖﻤﺼﻟﺍ ﺔﺑﺍﻮﺑ.</body>
   </string>
   <string>
     <id>1061111</id>
     <name>STR_DIC_W_Underpass_SZ_S2</name>
-    <body>Silentera Canyon Ramp;The entrance to the Silentera Canyon from Gelkmaros.</body>
+    <body>ﺱﺭﻮﻤﻜﻴﻠﻛ ﻦﻣ ﺖﻤﺼﻟﺍ ﻱﺩﺍﻭ ﻞﺧﺪﻣ؛ﺖﻤﺼﻟﺍ ﻱﺩﺍﻭ ﺭﺪﺤﻨﻣ.</body>
   </string>
   <string>
     <id>1061112</id>
     <name>STR_DIC_W_Underpass_SZ_A1</name>
-    <body>Maraka Cave;Maraka Cave</body>
+    <body>ﺎﻛﺭﺎﻣ ﻒﻬﻛ؛ﺎﻛﺭﺎﻣ ﺓﺭﺎﻐﻣ</body>
   </string>
   <string>
     <id>1061113</id>
     <name>STR_DIC_W_Underpass_SZ_A2</name>
-    <body>Pacifists Walk;Pacifists Walk</body>
+    <body>ﻦﻴﻤﻟﺎﺴﻤﻟﺍ ﻲﺸﻣ;ﻦﻴﻤﻟﺎﺴﻤﻟﺍ ﻲﺸﻣ</body>
   </string>
   <string>
     <id>1061114</id>
     <name>STR_DIC_W_Underpass_SZ_A3</name>
-    <body>Eastern Great Corridor;Eastern Great Corridor</body>
+    <body>ﺮﻴﺒﻜﻟﺍ ﻲﻗﺮﺸﻟﺍ ﺮﻤﻤﻟﺍ؛ﺮﻴﺒﻜﻟﺍ ﻲﻗﺮﺸﻟﺍ ﺮﻤﻤﻟﺍ</body>
   </string>
   <string>
     <id>1061115</id>
     <name>STR_DIC_W_Underpass_SZ_A4</name>
-    <body>Sullen Passage;Sullen Passage</body>
+    <body>ﺪﻘﺤﻟﺍ ﺮﻤﻣ;ﺪﻘﺤﻟﺍ ﺮﻤﻣ</body>
   </string>
   <string>
     <id>1061116</id>
     <name>STR_DIC_W_Underpass_SZ_A5</name>
-    <body>Shadow's Egress;A natural cave extended by the Nightshade Clan for grave robbing.</body>
+    <body>ﺭﻮﺒﻘﻟﺍ ﺔﻗﺮﺳ ﻞﺟﺃ ﻦﻣ ﺪﻳﺎﺸﺘﻳﺎﻧ ﺓﺮﻴﺸﻋ ﻞﺒﻗ ﻦﻣ ﻉﻮﻨﺼﻣ ﻲﻌﻴﺒﻃ ﻒﻬﻛ ؛ﻞﻈﻟﺍ ﻕﺎﺜﺒﻧﺍ.</body>
   </string>
   <string>
     <id>1061117</id>
     <name>STR_DIC_W_Underpass_SZ_B1</name>
-    <body>Visala Grotto;Visala Grotto</body>
+    <body>ﻼﺴﻴﻓ ﺓﺭﺎﻐﻣ؛ﻼﺴﻴﻓ ﺓﺭﺎﻐﻣ</body>
   </string>
   <string>
     <id>1061118</id>
     <name>STR_DIC_W_Underpass_SZ_B2</name>
-    <body>Chanters Walk;Chanters Walk</body>
+    <body>ﺀﺍﺮﻌﺸﻟﺍ ﺓﺮﻴﺴﻣ؛ﺀﺍﺮﻌﺸﻟﺍ ﺓﺮﻴﺴﻣ</body>
   </string>
   <string>
     <id>1061119</id>
     <name>STR_DIC_W_Underpass_SZ_B3</name>
-    <body>Western Great Corridor;Western Great Corridor</body>
+    <body>ﻢﻴﻈﻌﻟﺍ ﻲﺑﺮﻐﻟﺍ ﺮﻤﻤﻟﺍ؛ﻢﻴﻈﻌﻟﺍ ﻲﺑﺮﻐﻟﺍ ﺮﻤﻤﻟﺍ</body>
   </string>
   <string>
     <id>1061120</id>
     <name>STR_DIC_W_Underpass_SZ_B4</name>
-    <body>Prayerful Passage;Prayerful Passage</body>
+    <body>ﺓﻼﺼﻟﺍ ﺮﻤﻣ،ﺓﻼﺼﻟﺍ ﺮﻤﻣ</body>
   </string>
   <string>
     <id>1061121</id>
     <name>STR_DIC_W_Underpass_SZ_B5</name>
-    <body>Felons Flight;Felons Flight</body>
+    <body>ﻦﻴﺑﺮﺨﻤﻟﺍ ﻥﺍﺮﻴﻃ;ﻦﻴﺑﺮﺨﻤﻟﺍ ﺔﻠﺣﺭ</body>
   </string>
   <string>
     <id>1061122</id>
     <name>STR_DIC_W_Underpass_SZ_C1</name>
-    <body>Jotun Square;Jotun Square</body>
+    <body>ﻦﺗﻮﺟ ﺔﺣﺎﺳ؛ﻦﺗﻮﺟ ﺔﺣﺎﺳ</body>
   </string>
   <string>
     <id>1061123</id>
     <name>STR_DIC_W_Underpass_SZ_C2</name>
-    <body>Paupers Path;Paupers Path</body>
+    <body>ﺀﺍﺮﻘﻔﻟﺍ ﺮﻤﻣ;ﺀﺍﺮﻘﻔﻟﺍ ﺮﻤﻣ</body>
   </string>
   <string>
     <id>1061124</id>
     <name>STR_DIC_W_Underpass_SZ_C3</name>
-    <body>Mourners Walk;Mourners Walk</body>
+    <body>ﻦﻴﻌﻴﺸﻤﻟﺍ ﺭﺎﺴﻣ;ﻦﻴﻌﻴﺸﻤﻟﺍ ﺭﺎﺴﻣ</body>
   </string>
   <string>
     <id>1061125</id>
     <name>STR_DIC_W_Underpass_SZ_C4</name>
-    <body>Primeval Pass;Primeval Pass</body>
+    <body>ﺔﻳﺍﺪﺒﻟﺍ ﺮﺒﻌﻣ;ﺔﻳﺍﺪﺒﻟﺍ ﺮﺒﻌﻣ</body>
   </string>
   <string>
     <id>1061126</id>
